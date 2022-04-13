@@ -18,9 +18,9 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome to Overview Analytics. We advise on advanced analytics and data strategy for a variety of 
-        clients in the GTA and Waterloo region. Please feel free to read more <Link to="/about">about us</Link>,
-        and check out our {' '}
+      <p> Welcome to Overview Analytics. We advise on advanced analytics and data strategy 
+        for a variety of clients in the GTA and Waterloo region. Please feel free to 
+        read more <Link to="/about">about us</Link>, and check out our {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
