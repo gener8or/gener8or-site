@@ -22,7 +22,7 @@ const data = [
     link: '/',
     image: '/',
     desc:
-      'Building Data Lakehouses with Google Biglake'
+      'Building Data Lakehouses with Google Biglake',
   },
 
 ];
