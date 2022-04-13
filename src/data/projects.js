@@ -11,8 +11,8 @@ const data = [
   {
     title: 'Edge & IoT Systems',
     // subtitle: ,
-    link: '/',
-    image: '/',
+    link: 'https://developer.nvidia.com/deepstream-sdk',
+    image: '/public/images/projects/ds-workflow.png',
     desc:
       'Building data processing pipelines for imagery, environmental, and location data.',
   },
