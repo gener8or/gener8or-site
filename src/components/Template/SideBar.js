@@ -23,7 +23,7 @@ const SideBar = () => (
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Us</Link>}
+          {!window.location.pathname.includes('/about') ? <Link to="/about" className="button">Learn More</Link> : <Link to="/about" className="button">About Us</Link>}
         </li>
       </ul>
     </section>
@@ -31,6 +31,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">&copy; Overview Analytics <Link to="/">overviewanalytics.ca</Link>.</p>
+      <p> Code <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
     </section>
   </section>
 );
