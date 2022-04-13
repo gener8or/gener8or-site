@@ -19,8 +19,8 @@ const data = [
   {
     title: 'Data Strategy & Governance',
     subtitle: 'Data Lakehouse Consulting',
-    link: '/',
-    image: '/',
+    link: 'https://cloud.google.com/blog/products/data-analytics/unifying-data-lakes-and-data-warehouses-across-clouds-with-biglake',
+    image: '/images/projects/biglake.jpg',
     desc:
       'Building Data Lakehouses with Google Biglake',
   },
