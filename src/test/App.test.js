@@ -24,7 +24,7 @@ const pages = [
   },
   {
     route: '/about',
-    heading: 'About Me',
+    heading: 'About Us',
     component: About,
   },
   {
