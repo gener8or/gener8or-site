@@ -39,7 +39,7 @@ Main.defaultProps = {
   children: null,
   fullPage: false,
   title: null,
-  description: "Overview Analytics website.",
+  description:'Overview Analytics website.',
 };
 
 export default Main;
