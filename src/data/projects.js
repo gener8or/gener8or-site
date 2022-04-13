@@ -2,7 +2,7 @@
 const data = [
   {
     title: 'Maps & Location Analytics',
-    subtitle:,
+    // subtitle:,
     link: 'https://overviewanalytics.shinyapps.io/shiny-heatmap/',
     image: '/images/projects/kepler.gl copy.png',
     desc:
@@ -10,7 +10,7 @@ const data = [
   },
   {
     title: 'Edge & IoT Systems',
-    subtitle:,
+    // subtitle: ,
     link: '/',
     image: '/',
     desc:
