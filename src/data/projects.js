@@ -17,12 +17,12 @@ const data = [
       'Building data processing pipelines for imagery, environmental, and location data.',
   },
   {
-    title: 'Data Stratey & Governance',
+    title: 'Data Strategy & Governance',
     subtitle: 'Data Lakehouse Consulting',
     link: '/',
     image: '/',
     desc:
-      'Building Data Lakehouses with Google [Biglake]('https://www.nextplatform.com/2022/04/06/google-biglake-stretches-bigquery-across-all-data/')
+      'Building Data Lakehouses with Google Biglake'
   },
 
 ];
