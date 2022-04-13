@@ -8,12 +8,12 @@ const { PUBLIC_URL } = process.env; // set automatically from package.json:homep
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
-      <Link to="/" className="logo">
+      {/* <Link to="/" className="logo">
         <img src={`${PUBLIC_URL}/images/kepler.gl.png`} alt="" />
-      </Link>
+      </Link> */}
       <header>
         <h2>Overview Analytics</h2>
-        <p><a href="mailto:info@overviewanalytics.ca">info@overviewanalytics.ca</a></p>
+        {/* <p><a href="mailto:info@overviewanalytics.ca">info@overviewanalytics.ca</a></p> */}
       </header>
     </section>
 
