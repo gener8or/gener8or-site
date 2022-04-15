@@ -14,8 +14,8 @@ const Projects = () => (
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
-          <p>Services offered by Overview Analytics</p>
+          <h2 data-testid="heading"><Link to="/projects">Services</Link></h2>
+          {/* <p>Services offered by Overview Analytics</p> */}
         </div>
       </header>
       {data.map((project) => (
