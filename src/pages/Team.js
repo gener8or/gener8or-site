@@ -43,6 +43,7 @@ const Team = () => (
         , <a href="https://techalliance.ca">TechAlliance</a>
         , and <a href="https://lenovo.com">Lenovo</a>.
       </p>
+      <br />
     </article>
   </Main>
 );
