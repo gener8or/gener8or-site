@@ -25,13 +25,13 @@ const App = () => (
       <Switch>
         <Route exact path="/" component={Index} />
         <Route path="/about" component={About} />
+        <Route path="/insights" component={Insights} />
         <Route path="/projects" component={Projects} />
         {/* <Route path="/stats" component={Stats} /> */}
         <Route path="/contact" component={Contact} />
         <Route path="/team" component={Team} />
         {/* <Route path="/resume" component={Resume} /> */}
         <Route component={NotFound} status={404} />
-        <Route path="/insights" component={Insights} />
 
       </Switch>
     </Suspense>

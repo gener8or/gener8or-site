@@ -23,9 +23,17 @@ const Insights = () => (
     <article className="post markdown" id="insights">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/insights">team</Link></h2>
+          <h2 data-testid="heading"><Link to="/insights">Insights</Link></h2>
         </div>
       </header>
+      <div className="title">
+        <iframe width="830" height="450" src="https://www.youtube.com/embed/ai7y73FlBGA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+      </div>
+      <br />
+      <br />
+      <div className="title">
+        <iframe width="830" height="450" src="https://www.youtube.com/embed/995feyNG0Is" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+      </div>
       {/* <ReactMarkdown
         source={markdown}
         renderers={{
@@ -33,7 +41,6 @@ const Insights = () => (
         }}
         escapeHtml={false}
       /> */}
-      <div className="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="alecjmiller" data-version="v1"><a className="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/alecjmiller?trk=profile-badge">Alec Miller</a></div>
     </article>
   </Main>
 );
