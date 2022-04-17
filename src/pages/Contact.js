@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 import EmailLink from '../components/Contact/EmailLink';
-import ContactIcons from '../components/Contact/ContactIcons';
+// import ContactIcons from '../components/Contact/ContactIcons';
 
 const Contact = () => (
   <Main
@@ -16,11 +16,14 @@ const Contact = () => (
           <h2 data-testid="heading"><Link to="/contact">Contact</Link></h2>
         </div>
       </header>
+      <div>
+        <iframe title="intake-form" src="https://docs.google.com/forms/d/e/1FAIpQLSc17cowpQHS47yeDehGUs_ekhojaCW2AFmYFZwzwiHH-ULtAw/viewform?embedded=true" width="825" height="450" frameBorder="0" marginHeight="0" marginWidth="0" />
+      </div>
       <div className="email-at">
         <p>Contact Us: </p>
         <EmailLink />
       </div>
-      <ContactIcons />
+      {/* <ContactIcons /> */}
     </article>
   </Main>
 );

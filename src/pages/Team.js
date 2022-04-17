@@ -33,11 +33,11 @@ const Team = () => (
         }}
         escapeHtml={false}
       /> */}
-      <div className="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="alecjmiller" data-version="v1"><a className="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/alecjmiller?trk=profile-badge">Alec Miller</a></div>
+      <div className="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="alecjmiller" data-version="v1" />
       <br />
-      <p><a href="https://ivey.uwo.ca/">Ivey HBA</a> and <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">University of Toronto SCS </a> grad
-        with specializations in Entrepreneurship &amp; Data Science.
-        I&apos;m the owner/operator of <a href="https://www.overviewanalytics.ca">Overview Analytics</a>, prior to which I worked in technology,
+      <p>Overview Analytics was founded by <a className="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/alecjmiller?trk=profile-badge"> Alec Miller </a>
+        who holds an <a href="https://ivey.uwo.ca/"> Honours Business Administration degree</a> from the Ivey School of Business and a Certificate in Data Science from <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">University of Toronto SCS. </a>
+        Prior to <a href="https://www.overviewanalytics.ca">Overview Analytics</a>, Alec worked in technology,
         telecom, and startup incubation including roles @ <a href="https://rogers.com">Rogers</a>
         , <a href="https://marsdd.com">MaRS</a>
         , <a href="https://techalliance.ca">TechAlliance</a>

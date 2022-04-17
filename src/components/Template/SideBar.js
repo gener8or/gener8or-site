@@ -21,8 +21,8 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Overview Analytics is a Toronto-based advisory services firm focused on
         delivering high-value insights and intelligence to our clients.
-        Through an insighted-oriented, data-driven approach, we help mid-market &amp;
-        enterprise businesses supercharge their analytics practice.
+        Our insights-oriented, data-driven approach helps mid-market &amp;
+        enterprise customers supercharge their analytics practice.
       </p>
       <ul className="actions">
         <li>
