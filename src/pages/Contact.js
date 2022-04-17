@@ -17,7 +17,7 @@ const Contact = () => (
         </div>
       </header>
       <div>
-        <iframe title="intake-form" src="https://docs.google.com/forms/d/e/1FAIpQLSc17cowpQHS47yeDehGUs_ekhojaCW2AFmYFZwzwiHH-ULtAw/viewform?embedded=true" width="825" height="450" frameBorder="0" marginHeight="0" marginWidth="0" />
+        <iframe title="intake-form" src="https://docs.google.com/forms/d/e/1FAIpQLSc17cowpQHS47yeDehGUs_ekhojaCW2AFmYFZwzwiHH-ULtAw/viewform?embedded=true" width="100%" height="450" frameBorder="0" marginHeight="0" marginWidth="0" />
       </div>
       <div className="email-at">
         <p>Contact Us: </p>
