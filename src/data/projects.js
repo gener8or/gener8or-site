@@ -4,7 +4,7 @@ const data = [
     title: 'Maps & Location Analytics',
     // subtitle:,
     link: 'https://overviewanalytics.shinyapps.io/shiny-heatmap/',
-    image: '/images/projects/kepler.gl copy.png',
+    image: '/images/projects/keplergl.jpeg',
     desc:
       'Building maps and dashboards to display location data in powerful, accessible ways.',
   },
