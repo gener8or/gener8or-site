@@ -3,6 +3,9 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 import EmailLink from '../components/Contact/EmailLink';
+// import Cell from '../components/Projects/Cell';
+
+// import data from '../data/qr';
 // import ContactIcons from '../components/Contact/ContactIcons';
 
 const Contact = () => (
@@ -16,15 +19,18 @@ const Contact = () => (
           <h2 data-testid="heading"><Link to="/contact">Contact</Link></h2>
         </div>
       </header>
-      <div>
-        <iframe title="intake-form" src="https://docs.google.com/forms/d/e/1FAIpQLSc17cowpQHS47yeDehGUs_ekhojaCW2AFmYFZwzwiHH-ULtAw/viewform?embedded=true" width="100%" height="450" frameBorder="0" marginHeight="0" marginWidth="0" />
-      </div>
+      <header>
+        <div className="title">
+          <iframe title="square-booking-flow" src="https://square.site/appointments/buyer/widget/9x0957pgxktr2f/LNBV7SAYVA2FZ" width="100%" height="1200" frameBorder="0" scrolling="yes" />
+        </div>
+      </header>
       <div className="email-at">
         <p>Contact Us: </p>
         <EmailLink />
       </div>
       {/* <ContactIcons /> */}
     </article>
+
   </Main>
 );
 

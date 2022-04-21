@@ -33,10 +33,11 @@ const Live = () => (
         }}
         escapeHtml={false}
       /> */}
-      <br />
       <p>
-        <iframe title="vdo.ninja" allow="autoplay;camera;microphone;fullscreen;picture-in-picture;display-capture;" src="https://vdo.ninja/?view=pbbRZy2&s&q&cleanoutput&transparent" width="100%" height="450" />
+        <iframe title="vdo.ninja" allow="autoplay;camera;microphone;fullscreen;picture-in-picture;display-capture;" src="https://vdo.ninja/?scene&room=overviewroom&cleanoutput&transparent" width="100%" height="450" />
       </p>
+      <br />
+      <br />
     </article>
   </Main>
 );

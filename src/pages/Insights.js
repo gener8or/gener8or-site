@@ -25,6 +25,32 @@ const Insights = () => (
         />
       ))}
     </article>
+    <article className="post" id="ops">
+      <header>
+        <div className="title">
+          <h3 data-testid="heading"><Link to="/insights">Insights</Link></h3>
+          <iframe title="revamp" src="https://onedrive.live.com/embed?cid=EDB1502ED81FD43F&amp;resid=EDB1502ED81FD43F%21239155&amp;authkey=AELwgeRGO6STZBs&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="754" height="448px" frameBorder="0" />
+        </div>
+      </header>
+      <header>
+        <div className="title">
+          <iframe title="gcp-blueprints" src="https://onedrive.live.com/embed?cid=EDB1502ED81FD43F&resid=EDB1502ED81FD43F%21234604&authkey=AB7RKh9xChIBsiI&em=2" width="754" height="448" frameBorder="0" scrolling="no" />
+        </div>
+      </header>
+    </article>
+    <article className="post" id="ops">
+      <header>
+        <div className="title">
+          <h3 data-testid="heading"><Link to="/insights">Insights</Link></h3>
+          <iframe title="revamp" src="https://onedrive.live.com/embed?cid=EDB1502ED81FD43F&amp;resid=EDB1502ED81FD43F%21239155&amp;authkey=AELwgeRGO6STZBs&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="754" height="448px" frameBorder="0" />
+        </div>
+      </header>
+      <header>
+        <div className="title">
+          <iframe title="gcp-blueprints" src="https://onedrive.live.com/embed?cid=EDB1502ED81FD43F&resid=EDB1502ED81FD43F%21239122&authkey=APWtqHvhw1zc7_4&em=2" width="754" height="448" frameBorder="0" scrolling="no" />
+        </div>
+      </header>
+    </article>
   </Main>
 );
 
