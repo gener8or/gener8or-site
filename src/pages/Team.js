@@ -33,8 +33,6 @@ const Team = () => (
         }}
         escapeHtml={false}
       /> */}
-      <div className="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="alecjmiller" data-version="v1" />
-      <br />
       <p>Overview Analytics was founded by <a className="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/alecjmiller?trk=profile-badge"> Alec Miller </a>
         who holds an <a href="https://ivey.uwo.ca/"> Honours Business Administration degree</a> from the Ivey School of Business and a Certificate in Data Science from <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">University of Toronto SCS. </a>
         Prior to <a href="https://www.overviewanalytics.ca">Overview Analytics</a>, Alec worked in technology,
@@ -43,7 +41,6 @@ const Team = () => (
         , <a href="https://techalliance.ca">TechAlliance</a>
         , and <a href="https://lenovo.com">Lenovo</a>.
       </p>
-      <br />
     </article>
   </Main>
 );
