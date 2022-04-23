@@ -28,6 +28,12 @@ const data = [
     image: '/images/projects/lakehousegcp.png',
     desc: 'Building a Data Lakehouse on Google Cloud',
   },
+  {
+    title: 'The Data Analytics <-> Engineering Spectrum',
+    link: 'https://towardsdatascience.com/the-analytics-engineering-spectrum-of-data-science-jobs-3cf05c5f2d0b',
+    image: '/images/projects/analyticsengineeringspectrum.png',
+    des: 'Understanding the Division of Labour in Data',
+  },
 ];
 
 export default data;
