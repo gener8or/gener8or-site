@@ -27,12 +27,12 @@ const data = [
     link: 'https://overviewanalytics.square.site',
     label: 'Square Appointments',
     icon: faSquare,
-  }
-  // {
-  //   link: 'https://instagram.com/overviewanalytics',
-  //   label: 'Instagram',
-  //   icon: faInstagram,
-  // },
+  },
+  {
+    link: 'https://instagram.com/overviewanalytics',
+    label: 'Instagram',
+    icon: faInstagram,
+  },
 
 ];
 
