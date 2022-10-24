@@ -23,7 +23,7 @@ const data = [
     image: '/images/projects/ds-workflow.png',
     desc:
       'Building data processing pipelines for imagery, environmental, and location data.',
-  }
+  },
 
 ];
 
