@@ -19,7 +19,7 @@ const data = [
     icon: faEnvelope,
   },
   {
-    link: 'https://twitter.com/mgd_1984',
+    link: 'https://twitter.com/oa_analytics',
     label: 'Twitter',
     icon: faTwitter,
   },
@@ -27,12 +27,12 @@ const data = [
     link: 'https://overviewanalytics.square.site',
     label: 'Square Appointments',
     icon: faSquare,
-  },
-  {
-    link: 'https://instagram.com/overviewanalytics',
-    label: 'Instagram',
-    icon: faInstagram,
-  },
+  }
+  // {
+  //   link: 'https://instagram.com/overviewanalytics',
+  //   label: 'Instagram',
+  //   icon: faInstagram,
+  // },
 
 ];
 
