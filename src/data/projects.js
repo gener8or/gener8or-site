@@ -24,7 +24,6 @@ const data = [
     desc:
       'Building data processing pipelines for imagery, environmental, and location data.',
   },
-
 ];
 
 export default data;
