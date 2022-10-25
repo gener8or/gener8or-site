@@ -16,7 +16,7 @@ const Book = () => (
     <article className="post" id="contact">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/book">Book</Link></h2>
+          <h2 data-testid="heading"><Link to="/Book">Book</Link></h2>
         </div>
       </header>
       <header>
