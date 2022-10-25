@@ -21,7 +21,7 @@ const Index = () => (
         for a variety of clients in the GTA and Waterloo region.
         Learn more <Link to="/about">about us</Link>, check out our {' '}
         <Link to="/projects">services</Link>, {' '}
-        or <Link to="/book">contact</Link> us.
+        or <Link to="/contact">contact</Link> us.
       </p>
       <p> Code <a href="https://github.com/overviewanalytics/personal-site">here</a>.</p>
     </article>

@@ -2,7 +2,7 @@ import React from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-import data from '../../data/book';
+import data from '../../data/Contact';
 
 const ContactIcons = () => (
   <ul className="icons">
