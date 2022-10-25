@@ -34,4 +34,4 @@ const Book = () => (
   </Main>
 );
 
-export default Contact;
+export default Book;
