@@ -33,8 +33,8 @@ const routes = [
     path: '/live',
   },
   {
-    label: 'Contact',
-    path: '/contact',
+    label: 'Book',
+    path: '/book',
   },
 ];
 

@@ -8,7 +8,7 @@ import EmailLink from '../components/Contact/EmailLink';
 // import data from '../data/qr';
 // import ContactIcons from '../components/Contact/ContactIcons';
 
-const Contact = () => (
+const Book = () => (
   <Main
     title="Contact Us"
     description="Contact Overview Analyticss via info @ overviewanalytics.ca"
@@ -16,7 +16,7 @@ const Contact = () => (
     <article className="post" id="contact">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/contact">Contact</Link></h2>
+          <h2 data-testid="heading"><Link to="/book">Book</Link></h2>
         </div>
       </header>
       <header>
