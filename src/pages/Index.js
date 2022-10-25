@@ -20,7 +20,7 @@ const Index = () => (
       <p> Welcome to Overview Analytics. We advise on advanced analytics and data strategy
         for a variety of clients in the GTA and Waterloo region.
         Learn more <Link to="/about">about us</Link>, check out our {' '}
-        <Link to="/projects">services</Link>, {' '}
+        <Link to="/services">services</Link>, {' '}
         or <Link to="/contact">contact</Link> us.
       </p>
       <p> Code <a href="https://github.com/overviewanalytics/personal-site">here</a>.</p>

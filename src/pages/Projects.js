@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
-import Cell from '../components/Projects/Cell';
-import data from '../data/projects';
+import Cell from '../components/Services/Cell';
+import data from '../data/services';
 
-const Projects = () => (
+const Services = () => (
   <Main
     title="Service Offering"
     description="Learn about Overview Analytics's services."
@@ -14,7 +14,7 @@ const Projects = () => (
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/projects">Services</Link></h2>
+          <h2 data-testid="heading"><Link to="/services">Services</Link></h2>
           {/* <p>Services offered by Overview Analytics</p> */}
         </div>
       </header>
@@ -28,4 +28,4 @@ const Projects = () => (
   </Main>
 );
 
-export default Projects;
+export default Services;
