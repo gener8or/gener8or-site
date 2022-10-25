@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://gener8or.github.io/gener8or-site/",
+  "homepage": "https://overviewanaltyics.ca/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gener8or/gener8or-site.git"
+    "url": "https://github.com/OverviewAnalytics/personal-site.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
