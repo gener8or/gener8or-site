@@ -29,7 +29,8 @@
       "declaration": true,
       "assignment": true,
       "return": true
-    }],"import/extensions": [
+    }],
+    "import/extensions": [
       "error",
       "ignorePackages",
       {
