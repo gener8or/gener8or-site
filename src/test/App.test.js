@@ -40,7 +40,7 @@ const pages = [
   {
     route: '/book',
     heading: 'Book',
-    component: Contact,
+    component: Book,
   },
   {
     route: '/resume',
