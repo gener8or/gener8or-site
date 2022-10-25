@@ -28,9 +28,9 @@ const pages = [
     component: About,
   },
   {
-    route: '/projects',
-    heading: 'Projects',
-    component: Projects,
+    route: '/service',
+    heading: 'Services',
+    component: Services,
   },
   {
     route: '/stats',
