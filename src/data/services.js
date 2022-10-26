@@ -24,6 +24,14 @@ const data = [
     desc:
       'Building data processing pipelines for imagery, environmental, and location data.',
   },
+  {
+    title: 'Tech Stack',
+    subtitle: 'Overview Analytics Technology Stack',
+    link: '',
+    image: '/images/projects/OA_techstack.png',
+    desc:
+      'Technologies used by Overview Analytics in client engagements',
+  },
 ];
 
 export default data;
