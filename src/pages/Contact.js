@@ -19,15 +19,15 @@ const Contact = () => (
           <h2 data-testid="heading"><Link to="/Contact">Contact</Link></h2>
         </div>
       </header>
+      <div className="email-at">
+        <p>Contact Us: </p>
+        <EmailLink />
+      </div>
       <header>
         <div className="title">
           <iframe title="square-booking-flow" src="https://square.site/appointments/buyer/widget/9x0957pgxktr2f/LNBV7SAYVA2FZ" width="100%" height="1300" frameBorder="0" scrolling="yes" />
         </div>
       </header>
-      <div className="email-at">
-        <p>Contact Us: </p>
-        <EmailLink />
-      </div>
       {/* <ContactIcons /> */}
     </article>
 
