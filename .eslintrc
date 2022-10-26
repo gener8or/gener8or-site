@@ -1,6 +1,13 @@
 {
   "extends": "airbnb",
   "parser": "babel-eslint",
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
+  },
   "env": {
     "browser": true,
     "node": true,
