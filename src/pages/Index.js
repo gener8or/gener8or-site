@@ -20,15 +20,15 @@ const Index = () => (
       <p>
         Overview Analytics is a data & analytics service provider. We advise small & mid-market
         businesses on data strategy and do custom-builds of data pipelines for a variety of
-        technology-based businesses.
+        technology-based businesses.<br>
         Our areas of expertise include commercialization/IP, data governance,
         business intelligence, location analytics, data models, pipelines,
         and dashboards. We help clients unlock the value of their data by
         pairing deep business strategy with bleeding-edge AI models such as
-        Open AI GPT-3, Github Co-Pilot, and H2O AutoML.
+        Open AI GPT-3, Github Co-Pilot, and H2O AutoML.<br>
         We build custom data processing pipelines for our clients
         with a focus on semi/unstructured data such as image, audio,
-        video, and text.
+        video, and text.<br>
         Learn more <Link to="/about">about us</Link>, check out our {' '}
         <Link to="/services">services</Link>, {' '}
         or <Link to="/contact">contact</Link> us.
