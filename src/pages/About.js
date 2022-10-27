@@ -5,8 +5,8 @@ import raw from 'raw.macro';
 
 import Main from '../layouts/Main';
 
-import YoutubeEmbed from '../components/Template/YoutubeEmbed';
-import "../components/YoutubeEmbedstyle.css";
+// import YoutubeEmbed from '../components/Template/YoutubeEmbed';
+// import "../components/YoutubeEmbedstyle.css";
 
 // uses babel to load contents of file
 const markdown = raw('../data/about.md');
@@ -31,10 +31,15 @@ const About = () => (
       </header>
       <header>
         <div className="title">
+          <iframe title="youtubeembed" src="https://youtu.be/lFyXEEekz18" width="100%" height="450" frameBorder="0" scrolling="yes" />
+        </div>
+      </header>
+      {/* <header>
+        <div className="title">
           <h1>Youtube Embed</h1>
           <YoutubeEmbed embedId="LXb3EKWsInQ" />
         </div>
-      </header>  
+      </header>   */}
       <ReactMarkdown
         source={markdown}
         renderers={{
