@@ -5,6 +5,9 @@ import raw from 'raw.macro';
 
 import Main from '../layouts/Main';
 
+import YoutubeEmbed from '../components/Template/YoutubeEmbed';
+import "../components/YoutubeEmbedstyle.css";
+
 // uses babel to load contents of file
 const markdown = raw('../data/about.md');
 
@@ -26,6 +29,12 @@ const About = () => (
           <h2 data-testid="heading"><Link to="/about">About Us</Link></h2>
         </div>
       </header>
+      <header>
+        <div className="title">
+          <h1>Youtube Embed</h1>
+          <YoutubeEmbed embedId="LXb3EKWsInQ" />
+        </div>
+      </header>  
       <ReactMarkdown
         source={markdown}
         renderers={{
