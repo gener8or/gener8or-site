@@ -10,4 +10,4 @@ We help clients unlock the value of their data by pairing deep business strategy
 All of our Partners hold the Certified Analytics Professional designation which is an vendor-agnostic professional accreditation for  analytics practictioners. 
 
 ##
-If you're a business looking for a professional data services in the GTA or Waterloo Region, contact us today.
+If you're a business looking for professional data services in the GTA or Waterloo Region, [contact us today](https://overviewanalytics.ca/contact)
