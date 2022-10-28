@@ -6,7 +6,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 // to add other icons.
 
 const data = [
-  
+
   {
     link: 'mailto:gener8ive@gmail.com',
     label: 'Email',
@@ -37,6 +37,7 @@ const data = [
     label: 'Youtube',
     icon: faYoutube,
   },
+  
 ];
 
 export default data;
