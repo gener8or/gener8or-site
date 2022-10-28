@@ -32,10 +32,10 @@ const routes = [
     label: 'Live',
     path: '/live',
   },
-  {
-    label: 'Contact',
-    path: '/contact',
-  },
+  // {
+  //   label: 'Contact',
+  //   path: '/contact',
+  // },
 ];
 
 export default routes;
