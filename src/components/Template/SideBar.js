@@ -12,17 +12,14 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/kepler.gl.png`} alt="" />
       </Link> */}
       <header>
-        <h2>Overview Analytics</h2>
+        <h2>Gener8or Studios</h2>
         {/* <p><a href="mailto:info@overviewanalytics.ca">info@overviewanalytics.ca</a></p> */}
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Overview Analytics is a Toronto-based advisory services firm focused on
-        delivering high-value insights and intelligence to our clients.
-        Our insights-oriented, data-driven approach helps mid-market &amp;
-        enterprise customers supercharge their analytics practice.
+      <p>Gener8or Studios is a Toronto-based AI art studio.
       </p>
       <ul className="actions">
         <li>
@@ -33,7 +30,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Overview Analytics <Link to="/">overviewanalytics.ca</Link>. <a href="https://github.com/mldangelo/personal-site">Code</a></p>
+      <p className="copyright">&copy; Gener8or Studios <Link to="/">gener8or.ca</Link>. <a href="https://github.com/gener8or/gener8or-site">Code</a></p>
     </section>
   </section>
 );

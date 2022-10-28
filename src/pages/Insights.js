@@ -9,13 +9,13 @@ import data from '../data/insights';
 const Insights = () => (
   <Main
     title="Insights"
-    description="Learn about Overview Analytics's services."
+    description="Learn about Gener8or Studios' services including prints, commissions, and exhibits."
   >
     <article className="post" id="insights">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/insights">Insights</Link></h2>
-          {/* <p>Services offered by Overview Analytics</p> */}
+          {/* <p>Services offered by Gener8or Studios</p> */}
         </div>
       </header>
       {data.map((insight) => (

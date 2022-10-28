@@ -5,7 +5,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Overview Analytics' website - a Toronto-based data & analytics advisory services company."}
+    description={"Gener8or Studios' website - a Toronto-based AI art studio."}
   >
     <article className="post" id="index">
       <header>
@@ -18,7 +18,7 @@ const Index = () => (
         </div>
       </header>
       <p>
-        {/* Overview Analytics is a data & analytics service provider. We advise small & mid-market
+        {/* Gener8or Studios is a data & analytics service provider. We advise small & mid-market
         businesses on data strategy and do custom-builds of data pipelines for a variety of
         technology-based businesses.
         Our areas of expertise include commercialization/IP, data governance,

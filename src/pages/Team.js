@@ -17,7 +17,7 @@ import Main from '../layouts/Main';
 const Team = () => (
   <Main
     title="team"
-    description="Learn about Overview Analytics' Team"
+    description="Learn about Gener8or Studios' Team"
   >
     <article className="post markdown" id="team">
       <header>
@@ -34,7 +34,7 @@ const Team = () => (
       /> */}
       <p>Gener8or Studios was founded by Alec Millr (gener8or) <a className="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/alecjmiller?trk=profile-badge"> Alec Miller </a>
         who holds an <a href="https://ivey.uwo.ca/"> HBA </a> from the Ivey School of Business and a Certificate in Data Science from <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">University of Toronto SCS. </a>
-        Prior to <a href="https://www.overviewanalytics.ca">Overview Analytics</a>, Alec worked in technology,
+        Prior to <a href="https://www.gener8or.ca">Gener8or Studios</a>, Alec worked in technology,
         telecom, and startup incubation including roles @ <a href="https://rogers.com">Rogers</a>
         , <a href="https://marsdd.com">MaRS</a>
         , <a href="https://techalliance.ca">TechAlliance</a>
