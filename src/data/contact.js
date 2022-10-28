@@ -4,7 +4,6 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
-
 const data = [
 
   {
@@ -37,7 +36,7 @@ const data = [
     label: 'Youtube',
     icon: faYoutube,
   },
-  
+
 ];
 
 export default data;
