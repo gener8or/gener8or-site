@@ -26,11 +26,11 @@ const data = [
   // },
   // {
   //   title: 'Tech Stack',
-  //   subtitle: 'Overview Analytics Technology Stack',
+  //   subtitle: 'Gener8or Studios Technology Stack',
   //   link: '',
   //   image: '/images/projects/OA_techstack.png',
   //   desc:
-  //     'Technologies used by Overview Analytics in client engagements',
+  //     'Technologies used by Gener8or Studios in client engagements',
   // },
 ];
 

@@ -11,7 +11,7 @@ import EmailLink from '../components/Contact/EmailLink';
 const Contact = () => (
   <Main
     title="Contact Us"
-    description="Contact Overview Analyticss via info @ overviewanalytics.ca"
+    description="Contact Gener8or Studioss via info @ overviewanalytics.ca"
   >
     <article className="post" id="contact">
       <header>

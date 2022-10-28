@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: 'Overview Analytics',
+    label: 'Gener8or Studios',
     path: '/',
   },
   {
