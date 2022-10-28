@@ -5,36 +5,36 @@ const routes = [
     path: '/',
   },
   {
-    label: 'About',
-    path: '/about',
-  },
-  // {
-  //   label: 'Resume',
-  //   path: '/resume',
-  // },
-  {
-    label: 'Services',
+    label: 'Gallery',
     path: '/services',
-  },
-  // {
-  //   label: 'Stats',
-  //   path: '/stats',
-  // },
-  {
-    label: 'Team',
-    path: '/team',
-  },
-  {
-    label: 'Insights',
-    path: '/insights',
   },
   {
     label: 'Live',
     path: '/live',
   },
+  {
+    label: 'About',
+    path: '/about',
+  },
   // {
   //   label: 'Contact',
   //   path: '/contact',
+  // },
+  // {
+  //   label: 'Resume',
+  //   path: '/resume',
+  // },
+  // {
+  //   label: 'Stats',
+  //   path: '/stats',
+  // },
+  // {
+  //   label: 'Team',
+  //   path: '/team',
+  // },
+  // {
+  //   label: 'Insights',
+  //   path: '/insights',
   // },
 ];
 
