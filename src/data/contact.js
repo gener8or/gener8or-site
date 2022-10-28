@@ -1,4 +1,8 @@
-import { faInstagram, faMedium, faPaypal, faYoutube, faTwitter } from '@fortawesome/free-brands-svg-icons';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faMedium } from '@fortawesome/free-brands-svg-icons/faMedium';
+import { faPaypal } from '@fortawesome/free-brands-svg-icons/faPaypal';
+import { faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
+import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
