@@ -31,7 +31,7 @@ const About = () => (
       </header>
       <header>
         <div className="title">
-          <iframe title="youtubeembed" src="https://www.youtube.com/embed/3TQCOMQCL6g" width="100%" height="450" frameBorder="0" scrolling="yes" />
+          <iframe title="youtubeembed" src="https://www.youtube.com/embed/ZNVcUnHG1ns" width="100%" height="450" frameBorder="0" scrolling="yes" />
         </div>
       </header>
       {/* <header>
