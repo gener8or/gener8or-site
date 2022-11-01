@@ -19,7 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Gener8or Studios is a Toronto-based AI art studio.
+      <p>Gener8or Studios is a Toronto-based digital media & electronics art studio.
+        We leverage the latest creative technologies to make unbelievable sights, sounds & scenes.
       </p>
       <ul className="actions">
         <li>
