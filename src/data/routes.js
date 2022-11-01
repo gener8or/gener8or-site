@@ -6,7 +6,7 @@ const routes = [
   },
   {
     label: 'Gallery',
-    path: '/services',
+    path: '/gallery',
   },
   {
     label: 'Live',

@@ -23,10 +23,10 @@ const Index = () => (
           </p> */}
         </div>
       </header>
-      {data.map((project) => (
+      {data.map((gallery) => (
         <Cell
-          data={project}
-          key={project.title}
+          data={gallery}
+          key={gallery.title}
         />
       ))}
       <p>
