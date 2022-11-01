@@ -18,6 +18,11 @@ const Services = () => (
           {/* <p>Services offered by Gener8or Studios</p> */}
         </div>
       </header>
+      {/* <header>
+        <div className="title">
+          <iframe title="square-booking-flow" src="https://square.link/u/22v2LfFV" width="100%" height="1100" frameBorder="0" scrolling="yes" />
+        </div>
+      </header> */}
       {data.map((project) => (
         <Cell
           data={project}
