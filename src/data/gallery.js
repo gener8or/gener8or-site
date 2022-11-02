@@ -15,7 +15,7 @@ const data = [
   {
     title: '',
     subtitle: '',
-    link: '',
+    link: 'https://gener8or-studios.square.site/product/-infinite-libraries-/6',
     image: '/images/projects/2916587357_a_beautiful_1970_s_neighbourhood_scene_of_kensington_market_in_toronto_in_the_style_of_cyberpunk_2049__digital_art__8k__highly_detailed__cinematic_lighting__vaporwave_and_synthwave__highly_coherent__beeple__rtx_on__tokyo_city_lig.png',
     desc:
       '',
