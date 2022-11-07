@@ -18,20 +18,25 @@ const markdown = raw('../data/about.md');
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
-const About = () => (
+const Shop = () => (
   <Main
-    title="About"
+    title="Shop"
     description="Learn About Gener8or Studios"
   >
-    <article className="post markdown" id="about">
+    <article className="post markdown" id="shop">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/about">About Us</Link></h2>
+          <h2 data-testid="heading"><Link to="/shop">Shop</Link></h2>
         </div>
       </header>
-      <header>
+      {/* <header>
         <div className="title">
           <iframe title="youtubeembed" src="https://www.youtube.com/embed/ZNVcUnHG1ns" width="100%" height="450" allowFullScreen frameBorder="0" scrolling="yes" />
+        </div>
+      </header> */}
+      <header>
+        <div className="title">
+          <iframe title="square-booking-flow" src="https://www.gener8or.studio/shop/prints/13?page=1&limit=60&sort_by=category_order&sort_order=asc" width="100%" height="1300" frameBorder="0" scrolling="yes" />
         </div>
       </header>
       {/* <header>
@@ -51,4 +56,4 @@ const About = () => (
   </Main>
 );
 
-export default About;
+export default Shop;

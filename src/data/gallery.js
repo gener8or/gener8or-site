@@ -14,11 +14,10 @@ const data = [
   },
   {
     title: 'Infinite Libraries',
-    subtitle: 'Click to Buy',
     link: 'https://gener8or-studios.square.site/product/-infinite-libraries-/6',
     image: '/images/projects/2916587357_a_beautiful_1970_s_neighbourhood_scene_of_kensington_market_in_toronto_in_the_style_of_cyberpunk_2049__digital_art__8k__highly_detailed__cinematic_lighting__vaporwave_and_synthwave__highly_coherent__beeple__rtx_on__tokyo_city_lig.png',
     desc:
-      'Click to Buy Prints',
+      'Click to buy',
   },
   {
     title: '',
@@ -39,9 +38,11 @@ const data = [
     image: '/images/projects/20221028010128_00016_a_train_of_thoughts_through_the_mind_skull_with_the_most_beautiful_eyes_in_the_entire_world_transcending_suffering_incredible_mindexpanding_and_aweinspiring_art.png',
   },
   {
-    title: '',
-    subtitle: '',
+    title: 'Gener8or Skull',
+    link: 'https://gener8or-studios.square.site/product/gener8or-pfp-skull/12?cp=true&sa=true&sbp=false&q=false',
     image: '/images/projects/DALL·E 2022-07-26 16.03.50 - Unthinkable complexity, electrical circuitry, firing and wiring, clusters and constellations of data, in the style of colorful digital art, in the sha.jpeg',
+    desc: 'Original Gener8or PFP (22) Click to Print',
+    link2: 'TESTINGL:KAJ:LKJA:LKJA:LKJ',
   },
 ];
 

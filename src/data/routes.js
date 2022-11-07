@@ -13,8 +13,8 @@ const routes = [
     path: '/live',
   },
   {
-    label: 'About',
-    path: '/about',
+    label: 'Shop',
+    path: '/shop',
   },
   // {
   //   label: 'Contact',
