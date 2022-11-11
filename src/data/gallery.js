@@ -29,7 +29,7 @@ const data = [
     title: '',
     subtitle: '',
     link: '',
-    image: '/images/projects/a sublime painting of a lone pine tree overlooking a lake and forest, glowing in the early evening light, in the style of Tom Thomson and Thomas Kinkade.jpeg',
+    image: '/images/projects/lonepine.jpeg',
   },
   {
     title: '',
