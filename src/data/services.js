@@ -30,7 +30,7 @@ const data = [
     title: '',
     subtitle: '',
     link: '',
-    image: '/images/projects/a sublime painting of a lone pine tree overlooking a lake and forest, glowing in the early evening light, in the style of Tom Thomson and Thomas Kinkade.png',
+    image: '/images/projects/a sublime painting of a lone pine tree overlooking a lake and forest, glowing in the early evening light, in the style of Tom Thomson and Thomas Kinkade.jpeg',
   },
   {
     title: '',
