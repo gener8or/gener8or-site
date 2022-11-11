@@ -44,6 +44,12 @@ const data = [
     desc: 'Original Gener8or PFP (22) Click to Print',
     link2: 'TESTINGL:KAJ:LKJA:LKJA:LKJ',
   },
+  {
+    title: 'test',
+    link: 'https://medium.com/feed/@gener8ive',
+    image: '',
+    desc: '',
+  },
 ];
 
 export default data;

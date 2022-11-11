@@ -16,6 +16,14 @@ const routes = [
     label: 'Shop',
     path: '/shop',
   },
+  {
+    label: 'Book',
+    path: '/book',
+  },
+  {
+    label: 'Models',
+    path: '/models',
+  },
   // {
   //   label: 'Contact',
   //   path: '/contact',

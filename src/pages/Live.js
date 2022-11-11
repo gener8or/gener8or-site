@@ -34,7 +34,10 @@ const Live = () => (
         escapeHtml={false}
       /> */}
       <p>
-        <iframe title="vdo.ninja" allow="autoplay;camera;microphone;fullscreen;picture-in-picture;display-capture;" src="https://vdo.ninja/?scene&room=gener8or&transparent&q&s&vb=10000" width="100%" height="450" />
+        <div className="title">
+          <h2 data-testid="heading"><Link to="/live">Livestream</Link></h2>
+          <iframe width="100%" height="640" src="https://www.youtube.com/embed/6eeQrCDpBFs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+        </div>
       </p>
       <br />
       <br />

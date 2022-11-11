@@ -12,10 +12,11 @@ const Shop = lazy(() => import('./pages/Shop'));
 const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
+const Book = lazy(() => import('./pages/Book'));
 const Gallery = lazy(() => import('./pages/Gallery'));
 const Team = lazy(() => import('./pages/Team'));
 const Live = lazy(() => import('./pages/Live'));
-const Insights = lazy(() => import('./pages/Insights'));
+const Models = lazy(() => import('./pages/Models'));
 
 // const Resume = lazy(() => import('./pages/Resume'));
 // const Stats = lazy(() => import('./pages/Stats'));
@@ -26,9 +27,11 @@ const App = () => (
       <Switch>
         <Route exact path="/" component={Index} />
         <Route path="/shop" component={Shop} />
-        <Route path="/insights" component={Insights} />
+        <Route path="/book" component={Book} />
+        <Route path="/models" component={Models} />
         <Route path="/gallery" component={Gallery} />
         <Route path="/live" component={Live} />
+        <Route path="/models" component={Models} />
         {/* <Route path="/stats" component={Stats} /> */}
         <Route path="/contact" component={Contact} />
         <Route path="/team" component={Team} />
