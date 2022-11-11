@@ -29,7 +29,7 @@ const data = [
     title: '',
     subtitle: '',
     link: '',
-    image: '/images/projects/a sublime painting of a lone pine tree overlooking a lake and forest, glowing in the early evening light, in the style of Tom Thomson and Thomas Kinkade.png',
+    image: '/images/projects/a sublime painting of a lone pine tree overlooking a lake and forest, glowing in the early evening light, in the style of Tom Thomson and Thomas Kinkade.jpeg',
   },
   {
     title: '',
@@ -42,7 +42,6 @@ const data = [
     link: 'https://gener8or-studios.square.site/product/gener8or-pfp-skull/12?cp=true&sa=true&sbp=false&q=false',
     image: '/images/projects/DALL·E 2022-07-26 16.03.50 - Unthinkable complexity, electrical circuitry, firing and wiring, clusters and constellations of data, in the style of colorful digital art, in the sha.jpeg',
     desc: 'Original Gener8or PFP (22) Click to Print',
-    link2: 'TESTINGL:KAJ:LKJA:LKJA:LKJ',
   },
   {
     title: 'test',
