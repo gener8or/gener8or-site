@@ -8,6 +8,8 @@
     "url": "https://github.com/gener8or/gener8or-site.git"
   },
   "scripts": {
+    "clean": "rm -rf node_modules",
+    "reinstall": "npm run clean && npm install",
     "build": "rimraf ./build && react-scripts build",
     "predeploy": "npm run build && react-snap",
     "deploy": "gh-pages -d build",
