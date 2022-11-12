@@ -13,10 +13,10 @@ const Analytics = () => {
 
   useEffect(() => {
     if (NODE_ENV === 'production') {
-      ReactGA.set({
-        page: pathname,
-      });
-      ReactGA.send('pageview');
+      // ReactGA.set({
+      //   page: pathname,
+      // });
+      ReactGA.send({hitType: 'pageview', page: "pathname"});
     }
   }, [pathname]);
 
