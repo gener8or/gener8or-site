@@ -8,7 +8,7 @@ import { render, screen } from '@testing-library/react';
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
-import About from '../pages/About';
+// import About from '../pages/About';
 import Contact from '../pages/Contact';
 import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
@@ -22,11 +22,11 @@ const pages = [
     heading: 'About this site',
     component: Index,
   },
-  {
-    route: '/about',
-    heading: 'About Us',
-    component: About,
-  },
+  // {
+  //   route: '/about',
+  //   heading: 'About Us',
+  //   component: About,
+  // },
   {
     route: '/service',
     heading: 'Services',
