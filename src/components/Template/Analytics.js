@@ -18,7 +18,7 @@ const Analytics = () => {
       // });
       ReactGA.send({hitType: 'pageview', page: "pathname"});
     }
-  }, [pathname]);
+  });
 
   return null;
 };
