@@ -39,7 +39,7 @@ const Book = () => (
       </header>
       <header>
         <div className="title">
-          <iframe title="square-booking-flow" src="https://squareup.com/appointments/book/ymyql723sz3a09/LQ4A45BF7KEBQ/start" width="100%" height="1300" frameBorder="0" scrolling="yes" />
+          <iframe title="square-booking-flow" src="https://squareup.com/appointments/book/ymyql723sz3a09/LQ4A45BF7KEBQ/start" width="100%" height="1000" frameBorder="0" scrolling="yes" />
         </div>
       </header>
       {/* <header>
