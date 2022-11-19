@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
   "name": "gener8or-site",
-  "version": "3.0.1",
-  "homepage": "https://gener8or.github.io/gener8or-site/",
-=======
-  "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://mldangelo.com/",
->>>>>>> upstream/main
+  "homepage": "https://gener8or.github.io/gener8or-site/",
   "license": "MIT",
   "repository": {
     "type": "git",
