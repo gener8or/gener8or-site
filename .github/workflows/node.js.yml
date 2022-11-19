@@ -31,6 +31,8 @@ jobs:
       run: npm run predeploy
       env:
         NODE_ENV: development
+        REACT_APP_GA_MEASUREMENT_ID: ${{ secrets.REACT_APP_GA_MEASUREMENT_ID }}
+
     - name: Test
       run: npm test
       env:
