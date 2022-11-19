@@ -5,8 +5,9 @@ on:
     branches: [ main ]
   workflow_dispatch:
 jobs:
-  depoy:
+  deployment:
     runs-on: ubuntu-latest
+    environment: production
     steps:
     - name: Checkout
       uses: actions/checkout@v3
@@ -15,7 +16,7 @@ jobs:
     - name: Use Node 14
       uses: actions/setup-node@v3
       with:
-        node-version: 14.x
+        node-version-file: '.nvmrc'
     - name: Install
       run: npm ci
     - name: Build and Deploy
