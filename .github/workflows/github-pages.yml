@@ -22,8 +22,8 @@ jobs:
       env:
         NODE_ENV: production
         # This is set automatically by github
-        GITHUB_TOKEN: ${{ secrets.TEST_GITHUB_TOKEN }}
         REACT_APP_GA_MEASUREMENT_ID: ${{ secrets.REACT_APP_GA_MEASUREMENT_ID }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         # PUBLIC_URL: https://gener8or.github.io/gener8or-site/
       run: | 
           git config user.name "Automated"
