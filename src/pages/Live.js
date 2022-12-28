@@ -43,7 +43,7 @@ const Live = () => (
             src="https://stabilityai-stable-diffusion.hf.space"
             frameBorder="0"
             width="100%"
-            height="1250"
+            height="1249"
           />
         </div>
       </p>
