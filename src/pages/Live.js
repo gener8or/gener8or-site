@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+// import { KeplerGL } from 'node_modules/kepler.gl';
 // import ReactMarkdown from 'react-markdown';
 // import raw from 'raw.macro';
 
@@ -35,8 +36,15 @@ const Live = () => (
       /> */}
       <p>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/live">Livestream</Link></h2>
-          <iframe width="100%" height="640" src="https://www.youtube.com/embed/6eeQrCDpBFs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+          <h2 data-testid="heading"><Link to="/live">Demo</Link></h2>
+          {/* <iframe width="100%" height="640" src="https://www.youtube.com/embed/6eeQrCDpBFs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /> */}
+          <iframe
+            title="title"
+            src="https://stabilityai-stable-diffusion.hf.space"
+            frameBorder="0"
+            width="850"
+            height="1250"
+          />
         </div>
       </p>
       <br />

@@ -16,7 +16,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About Us</Link></h2>
+          <h2 data-testid="heading"><Link to="/">About</Link></h2>
           {/* <p>
             A beautiful, responsive, statically-generated,
             react application written with modern Javascript.
@@ -31,7 +31,7 @@ const Index = () => (
       ))}
       <p>
         {/* Gener8or Studios */}
-        Learn more <Link to="/about">about us</Link>, check out our {' '}
+        Learn more <Link to="/about">about</Link>, check out our {' '}
         <Link to="/services">services</Link>, {' '}
         or <Link to="/contact">contact</Link> us.
       </p>

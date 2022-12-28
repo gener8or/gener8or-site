@@ -36,10 +36,10 @@ const routes = [
   //   label: 'Stats',
   //   path: '/stats',
   // },
-  // {
-  //   label: 'Team',
-  //   path: '/team',
-  // },
+  {
+    label: 'About',
+    path: '/about',
+  },
   // {
   //   label: 'Insights',
   //   path: '/insights',

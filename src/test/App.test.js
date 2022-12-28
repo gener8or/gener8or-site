@@ -24,7 +24,7 @@ const pages = [
   },
   // {
   //   route: '/about',
-  //   heading: 'About Us',
+  //   heading: 'About',
   //   component: About,
   // },
   {

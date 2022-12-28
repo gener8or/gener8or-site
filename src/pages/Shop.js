@@ -36,7 +36,7 @@ const Shop = () => (
       </header> */}
       <header>
         <div className="title">
-          <iframe title="square-booking-flow" src="https://www.gener8or.studio/shop/prints/13?page=1&limit=60&sort_by=category_order&sort_order=asc" width="100%" height="1300" frameBorder="0" scrolling="yes" />
+          <iframe title="square-booking-flow" src="https://www.gener8or.studio/s/shop?page=1&limit=60&sort_by=popularity_score&sort_order=desc" width="100%" height="1300" frameBorder="0" scrolling="yes" />
         </div>
       </header>
       {/* <header>

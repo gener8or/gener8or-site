@@ -29,6 +29,7 @@ const Gallery = () => (
           key={gallery.title}
         />
       ))}
+
     </article>
   </Main>
 );
