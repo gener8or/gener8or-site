@@ -22,11 +22,11 @@ const Live = () => (
     description="Livestreaming Generative Art"
   >
     <article className="post markdown" id="live">
-      <header>
+      {/* <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/live">live</Link></h2>
         </div>
-      </header>
+      </header> */}
       {/* <ReactMarkdown
         source={markdown}
         renderers={{
