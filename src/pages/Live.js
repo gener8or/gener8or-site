@@ -22,11 +22,11 @@ const Live = () => (
     description="Livestreaming Generative Art"
   >
     <article className="post markdown" id="live">
-      {/* <header>
+      <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/live">live</Link></h2>
         </div>
-      </header> */}
+      </header>
       {/* <ReactMarkdown
         source={markdown}
         renderers={{
@@ -37,14 +37,14 @@ const Live = () => (
       <p>
         <div className="title">
           <h2 data-testid="heading"><Link to="/live">Demo</Link></h2>
-          {/* <iframe width="100%" height="640" src="https://www.youtube.com/embed/6eeQrCDpBFs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /> */}
-          <iframe
+          <iframe width="100%" height="640" src="https://www.youtube.com/embed/6eeQrCDpBFs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+          {/* <iframe
             title="title"
             src="https://stabilityai-stable-diffusion.hf.space"
             frameBorder="0"
             width="100%"
             height="1249"
-          />
+          /> */}
         </div>
       </p>
       <br />
